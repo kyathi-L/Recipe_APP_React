@@ -1,0 +1,659 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Pasta",
+      "description": "Delicious Italian pasta recipe",
+      "ingredients": "Pasta, Tomato Sauce, Cheese",
+      "instructions": [
+        "Bring a large pot of salted water to a boil.",
+        "Add pasta and cook according to package instructions, usually for 8-10 minutes.",
+        "Drain the pasta and return it to the pot.",
+        "Pour tomato sauce over the pasta and stir until well combined.",
+        "Grate or sprinkle cheese on top of the pasta and serve immediately."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1664472619078-9db415ebef44?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFzdGF8ZW58MHwwfDB8fHww"
+    },
+    {
+      "id": "2",
+      "title": "Biriyani",
+      "description": "Delicious Hyderabadi Dum Biriyani recipe",
+      "ingredients": "Chicken, Yogurt (Curd), Ginger-Garlic Paste, Red Chili Powder, Turmeric Powder, Coriander Powder, Garam Masala Powder, Green Chilies, Salt, Lemon Juice, Fresh Coriander Leaves, Mint Leaves, Basmati Rice, Bay Leaves, Cloves, Green Cardamoms, Cinnamon Stick, Shahi Jeera (Caraway Seeds), Onions (for frying), Saffron Strands, Ghee (Clarified Butter), Fried Cashews (optional), Fried Raisins (optional), Oil",
+      "instructions": [
+        "First, soak basmati rice in water for 30 minutes.",
+        "In a large pot, bring 4 cups of water to a boil and add bay leaves, cloves, cardamoms, cinnamon, and salt.",
+        "Add the soaked rice and cook until it is 70% done (the rice should still be firm). Drain the rice and set it aside.",
+        "For the chicken marinade, mix yogurt, ginger-garlic paste, red chili powder, turmeric powder, coriander powder, garam masala powder, green chilies, salt, and lemon juice in a bowl.",
+        "Add chicken pieces to the marinade and mix well. Let it sit for at least 1 hour (or preferably overnight for better flavor).",
+        "Heat oil or ghee in a large pot. Add cumin seeds and let them splutter.",
+        "Add the marinated chicken to the pot and cook for 5-7 minutes on medium heat.",
+        "Add chopped tomatoes and cook until they soften and oil separates from the mixture.",
+        "Now, add half of the fried onions, fresh coriander leaves, and mint leaves. Stir well and cook for another 5 minutes.",
+        "To layer the biryani, in the same pot (or a separate one), start by adding a layer of the chicken mixture.",
+        "Top it with a layer of cooked rice, then sprinkle some fried onions, mint leaves, and saffron milk (if using).",
+        "Repeat the layering until all the chicken and rice are used up, ending with a rice layer on top.",
+        "Cover the pot with a tight-fitting lid. For authentic 'dum' cooking, you can seal the edges of the pot with dough.",
+        "Cook the biryani on low heat for 20-25 minutes. Alternatively, place the pot on a flat griddle (tawa) to prevent burning, and steam for the same duration.",
+        "Once cooked, gently mix the layers together before serving.",
+        "Serve hot with raita, salad, or your favorite chutney."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/1333127665/photo/chicken-biryani-spicy-indian-malabar-biryani-hyderabadi-biryani-dum-biriyani-pulao-golden.jpg?s=612x612&w=0&k=20&c=63UXYPOISm8nJ8SNK79dDm0w1gY6jXzYQP0heL6fnOg="
+    },
+    {
+      "id": "3",
+      "title": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": "Spaghetti, Eggs, Parmesan Cheese, Pancetta, Black Pepper, Olive Oil, Salt",
+      "instructions": [
+        "Cook spaghetti in salted water until al dente.",
+        "In a separate pan, cook pancetta until crispy.",
+        "Whisk eggs and grated Parmesan cheese in a bowl.",
+        "Once the pasta is done, reserve some pasta water and drain the rest.",
+        "Toss pasta with pancetta and olive oil.",
+        "Remove from heat and add the egg mixture, stirring quickly to create a creamy sauce.",
+        "Add pasta water if needed to adjust the consistency.",
+        "Season with black pepper and salt to taste, and serve immediately."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1674511582428-58ce834ce172?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3BhZ2hldHRpJTIwQ2FyYm9uYXJhfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "4",
+      "title": "Caesar Salad",
+      "description": "A crisp and refreshing salad with romaine lettuce, croutons, and Caesar dressing.",
+      "ingredients": "Romaine Lettuce, Croutons, Caesar Dressing, Parmesan Cheese, Black Pepper",
+      "instructions": [
+        "Tear the romaine lettuce into bite-sized pieces.",
+        "In a large bowl, combine the lettuce, croutons, and Parmesan cheese.",
+        "Drizzle with Caesar dressing and toss to coat.",
+        "Season with black pepper to taste and serve."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1669283714145-f97867f6c238?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "5",
+      "title": "Pancakes",
+      "description": "Fluffy, classic breakfast pancakes.",
+      "ingredients": "Flour, Baking Powder, Milk, Eggs, Sugar, Butter, Salt",
+      "instructions": [
+        "In a mixing bowl, whisk together 1 cup of flour, 2 teaspoons of baking powder, and a pinch of salt.",
+        "In another bowl, beat 1 egg with 1 cup of milk and 2 tablespoons of melted butter.",
+        "Gradually pour the wet mixture into the dry ingredients, stirring until the batter is smooth.",
+        "Heat a non-stick pan or griddle over medium heat and lightly grease with butter or oil.",
+        "Pour 1/4 cup of batter onto the hot pan for each pancake. Cook until bubbles form on the surface, then flip and cook for another 1-2 minutes until golden brown on both sides.",
+        "Serve the pancakes hot with maple syrup, fresh fruit, or your favorite toppings."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/161170090/photo/pancakes-with-berries-and-maple-syrup.webp?a=1&b=1&s=612x612&w=0&k=20&c=vLBnyfpcHHA07gEXKkai5FAKad3vD0ugmNwOLhhFpZc="
+    },
+    {
+      "id": "6",
+      "title": "Chicken Curry",
+      "description": "A rich and flavorful Indian chicken curry",
+      "ingredients": "Chicken, Onions, Tomatoes, Ginger-Garlic Paste, Spices (Cumin, Turmeric, Coriander, Garam Masala), Yogurt, Oil",
+      "instructions": [
+        "Heat oil in a pot, sauté onions until golden.",
+        "Add ginger-garlic paste and cook for 2 minutes.",
+        "Add tomatoes and spices, cook until oil separates.",
+        "Add chicken and yogurt, mix well.",
+        "Simmer until chicken is cooked and the curry thickens."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hpY2tlbiUyMGN1cnJ5fGVufDB8fDB8fHww"
+    },
+    {
+      "id": "7",
+      "title": "Vegetable Stir-Fry",
+      "description": "Quick and healthy mixed vegetable stir-fry",
+      "ingredients": "Broccoli, Bell Peppers, Carrots, Soy Sauce, Garlic, Ginger, Oil, Sesame Seeds",
+      "instructions": [
+        "Heat oil in a wok, add garlic and ginger.",
+        "Add vegetables and stir-fry on high heat for 5 minutes.",
+        "Drizzle soy sauce and toss to coat.",
+        "Sprinkle sesame seeds before serving."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/584747904/photo/stir-fried-vegetables.webp?a=1&b=1&s=612x612&w=0&k=20&c=Z1e5ROjTZhQz4-v3Px-KMyppirD73ReMINRsIP1oiz0="
+    },
+    {
+      "id": "8",
+      "title": "Tacos",
+      "description": "Classic Mexican tacos with flavorful fillings",
+      "ingredients": "Taco Shells, Ground Beef, Taco Seasoning, Lettuce, Tomatoes, Cheese, Salsa",
+      "instructions": [
+        "Cook ground beef in a pan, add taco seasoning.",
+        "Fill taco shells with beef, lettuce, tomatoes, and cheese.",
+        "Top with salsa and serve immediately."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1664476631037-87a2714dd04e?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "9",
+      "title": "Sushi Rolls",
+      "description": "Simple homemade sushi rolls",
+      "ingredients": "Sushi Rice, Nori Sheets, Vegetables (Cucumber, Avocado), Cooked Seafood, Soy Sauce",
+      "instructions": [
+        "Spread cooked sushi rice on a nori sheet.",
+        "Add sliced vegetables and seafood.",
+        "Roll tightly and slice into pieces.",
+        "Serve with soy sauce and wasabi."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1653542773816-3922a928b28c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHN1c2hpJTIwcm9sbHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "10",
+      "title": "Chocolate Cake",
+      "description": "Moist and rich chocolate cake",
+      "ingredients": "Flour, Cocoa Powder, Sugar, Eggs, Milk, Butter, Baking Powder",
+      "instructions": [
+        "Mix flour, cocoa powder, and baking powder in a bowl.",
+        "Cream butter and sugar, then add eggs and milk.",
+        "Combine dry and wet ingredients; mix well.",
+        "Pour into a greased pan and bake at 180°C for 30 minutes."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/1191458812/photo/chocolate-layer-cake.jpg?s=612x612&w=0&k=20&c=2plIArpL-W7A26kOafqp5cVY7VznJwbO4YpqNfah8yY="
+    },
+    {
+      "id": "11",
+      "title": "Grilled Salmon",
+      "description": "Simple and flavorful grilled salmon",
+      "ingredients": "Salmon Fillet, Olive Oil, Lemon, Garlic, Salt, Pepper, Fresh Herbs",
+      "instructions": [
+        "Marinate salmon with olive oil, lemon juice, garlic, and spices.",
+        "Grill on medium heat for 4-5 minutes on each side.",
+        "Garnish with fresh herbs before serving."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1580917109855-6817741b51e4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGdyaWxsZWQlMjBzYWxtYW58ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "12",
+      "title": "French Toast",
+      "description": "Sweet and soft French toast",
+      "ingredients": "Bread, Eggs, Milk, Sugar, Vanilla Extract, Butter",
+      "instructions": [
+        "Whisk eggs, milk, sugar, and vanilla extract.",
+        "Dip bread slices into the mixture.",
+        "Cook on a buttered pan until golden on both sides.",
+        "Serve with syrup or powdered sugar."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1663840225558-03ac41c68873?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "13",
+      "title": "Margarita Pizza",
+      "description": "Classic Italian pizza with fresh basil",
+      "ingredients": "Pizza Dough, Tomato Sauce, Mozzarella Cheese, Fresh Basil, Olive Oil",
+      "instructions": [
+        "Roll out pizza dough on a floured surface.",
+        "Spread tomato sauce evenly over the dough.",
+        "Add slices of mozzarella cheese.",
+        "Bake in a preheated oven at 220°C for 10-15 minutes.",
+        "Garnish with fresh basil and drizzle olive oil before serving."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWFyZ2FyaXR0YSUyMHBpenphfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "14",
+      "title": "Beef Stroganoff",
+      "description": "Creamy and savory beef stroganoff",
+      "ingredients": "Beef Strips, Onions, Mushrooms, Sour Cream, Beef Broth, Flour, Butter, Egg Noodles",
+      "instructions": [
+        "Cook beef strips in a pan until browned, then set aside.",
+        "Sauté onions and mushrooms in butter.",
+        "Add flour and stir for 1 minute.",
+        "Pour in beef broth and simmer until thickened.",
+        "Stir in sour cream and cooked beef.",
+        "Serve over egg noodles."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1548869206-93b036288d7e?q=80&w=1895&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "15",
+      "title": "Tomato Soup",
+      "description": "Comforting and creamy tomato soup",
+      "ingredients": "Tomatoes, Onions, Garlic, Butter, Cream, Salt, Pepper, Vegetable Broth",
+      "instructions": [
+        "Sauté onions and garlic in butter until soft.",
+        "Add chopped tomatoes and vegetable broth.",
+        "Simmer for 15-20 minutes, then blend until smooth.",
+        "Stir in cream, season with salt and pepper, and serve hot."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1726797922299-9ffb46f91841?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8JTIyVG9tYXRvJTIwU291cHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "16",
+      "title": "Falafel",
+      "description": "Crispy and flavorful Middle Eastern snack",
+      "ingredients": "Chickpeas, Garlic, Onions, Parsley, Cumin, Coriander, Flour, Baking Powder, Oil",
+      "instructions": [
+        "Blend chickpeas, garlic, onions, parsley, and spices into a coarse paste.",
+        "Add flour and baking powder; mix well.",
+        "Shape into small balls and refrigerate for 30 minutes.",
+        "Deep fry until golden brown and serve with tahini sauce."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1668618295068-31df85f78d6c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8JTIyRmFsYWZlbCUyMnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "18",
+      "title": "Chili Con Carne",
+      "description": "Spicy and hearty chili with beans",
+      "ingredients": "Ground Beef, Kidney Beans, Tomatoes, Onion, Garlic, Chili Powder, Cumin, Paprika",
+      "instructions": [
+        "Brown ground beef in a large pot, then set aside.",
+        "Sauté onions and garlic until soft.",
+        "Add tomatoes, beans, and spices, and stir well.",
+        "Return the beef to the pot and simmer for 30 minutes.",
+        "Serve hot with rice or tortilla chips."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1514241084036-b7dbe9198d0a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "19",
+      "title": "Garlic Bread",
+      "description": "Crispy and buttery garlic bread",
+      "ingredients": "Bread, Butter, Garlic, Parsley, Salt",
+      "instructions": [
+        "Mix softened butter with minced garlic, parsley, and salt.",
+        "Spread the mixture over slices of bread.",
+        "Bake in a preheated oven at 200°C for 8-10 minutes.",
+        "Serve warm as a side dish."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1711752902321-ef7b72b28b26?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2FybGljJTIwYnJlYWQnfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "20",
+      "title": "Chicken Alfredo Pasta",
+      "description": "Creamy and rich pasta with chicken",
+      "ingredients": "Pasta, Chicken Breast, Cream, Parmesan Cheese, Garlic, Butter, Salt, Pepper",
+      "instructions": [
+        "Cook pasta until al dente and set aside.",
+        "Cook chicken breast in a pan, then slice into strips.",
+        "In the same pan, sauté garlic in butter.",
+        "Add cream and Parmesan, stirring until smooth.",
+        "Toss pasta and chicken in the sauce and serve."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1670508142255-f119391c4213?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q2hpY2tlbiUyMEFsZnJlZG8lMjBQYXN0YXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "20",
+      "title": "Apple Pie",
+      "description": "Classic dessert with a buttery crust and sweet apples",
+      "ingredients": "Pie Crust, Apples, Sugar, Cinnamon, Nutmeg, Butter",
+      "instructions": [
+        "Peel and slice apples, then mix with sugar and spices.",
+        "Fill the pie crust with the apple mixture.",
+        "Cover with another crust, sealing the edges.",
+        "Bake in a preheated oven at 180°C for 45-50 minutes.",
+        "Let cool before serving."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1694336203192-c9e7f2891b95?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBwaWV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "21",
+      "title": "Vegetable Lasagna",
+      "description": "Layered lasagna with fresh vegetables and cheese",
+      "ingredients": "Lasagna Sheets, Tomato Sauce, Zucchini, Spinach, Ricotta Cheese, Mozzarella Cheese, Parmesan Cheese",
+      "instructions": [
+        "Cook lasagna sheets according to package instructions.",
+        "Layer sheets, tomato sauce, vegetables, and cheeses in a baking dish.",
+        "Repeat until all ingredients are used, ending with cheese.",
+        "Bake in a preheated oven at 200°C for 30-35 minutes.",
+        "Let cool slightly before serving."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmVnZXRhYmxyJTIwbGFzYWduYXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "22",
+      "title": "Shrimp Scampi",
+      "description": "Garlicky shrimp with a buttery sauce",
+      "ingredients": "Shrimp, Garlic, Butter, Lemon Juice, White Wine, Parsley, Spaghetti",
+      "instructions": [
+        "Cook spaghetti until al dente.",
+        "Sauté garlic in butter until fragrant.",
+        "Add shrimp and cook until pink.",
+        "Deglaze with white wine and lemon juice.",
+        "Toss shrimp with cooked spaghetti and garnish with parsley."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1535400255456-984241443b29?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hyaW1wJTIwc2NyYW1waXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "24",
+      "title": "Stuffed Bell Peppers",
+      "description": "Bell peppers stuffed with a flavorful filling",
+      "ingredients": "Bell Peppers, Ground Beef, Rice, Tomato Sauce, Onions, Cheese, Spices",
+      "instructions": [
+        "Cut the tops off bell peppers and remove seeds.",
+        "Mix ground beef, cooked rice, tomato sauce, onions, and spices.",
+        "Stuff the mixture into the bell peppers.",
+        "Bake at 180°C for 25-30 minutes, then top with cheese and bake for 5 more minutes."
+      ],
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBllwmLjOfCEm27wuYgmLLslpIcTjDhNmHRA&s"
+    },
+    {
+      "id": "25",
+      "title": "Banana Bread",
+      "description": "Moist and flavorful banana bread",
+      "ingredients": "Bananas, Flour, Sugar, Eggs, Butter, Baking Powder, Vanilla Extract",
+      "instructions": [
+        "Mash bananas in a bowl.",
+        "Mix in sugar, eggs, melted butter, and vanilla extract.",
+        "Combine with flour and baking powder.",
+        "Pour into a greased loaf pan.",
+        "Bake at 175°C for 50-60 minutes."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1675171527461-b785cb1a7016?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFuYW5hJTIwYnJlYWR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "26",
+      "title": "Greek Salad",
+      "description": "Fresh and tangy Greek salad",
+      "ingredients": "Tomatoes, Cucumbers, Red Onions, Feta Cheese, Kalamata Olives, Olive Oil, Oregano",
+      "instructions": [
+        "Chop tomatoes, cucumbers, and red onions.",
+        "Combine in a bowl with feta cheese and olives.",
+        "Drizzle with olive oil and sprinkle oregano.",
+        "Serve fresh and chilled."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1690561082636-06237f98bfab?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3JlZWslMjBzYWxhZHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "27",
+      "title": "Pumpkin Soup",
+      "description": "Creamy and comforting pumpkin soup",
+      "ingredients": "Pumpkin, Onions, Garlic, Vegetable Stock, Cream, Olive Oil, Nutmeg",
+      "instructions": [
+        "Sauté onions and garlic in olive oil.",
+        "Add pumpkin and cook until soft.",
+        "Blend with vegetable stock until smooth.",
+        "Add cream and season with nutmeg.",
+        "Serve hot with crusty bread."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1669559808981-004376c78d77?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "27",
+      "title": "Greek Salad",
+      "description": "A fresh salad with Mediterranean flavors",
+      "ingredients": "Cucumber, Tomato, Red Onion, Feta Cheese, Olives, Olive Oil, Lemon Juice, Oregano",
+      "instructions": [
+        "Chop cucumber, tomato, and onion.",
+        "Combine vegetables with feta cheese and olives.",
+        "Drizzle with olive oil, lemon juice, and oregano."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1690561082636-06237f98bfab?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3JlZWslMjBzYWxhZHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "28",
+      "title": "Clam Chowder",
+      "description": "Creamy soup with clams and potatoes",
+      "ingredients": "Clams, Potatoes, Onion, Celery, Cream, Butter, Flour, Salt, Pepper",
+      "instructions": [
+        "Sauté onions and celery in butter.",
+        "Add flour to make a roux.",
+        "Stir in cream, clams, and diced potatoes.",
+        "Simmer until potatoes are tender and serve."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1571167366136-b57e07761625?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xhbSUyMGNob3dkZXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "29",
+      "title": "Ratatouille",
+      "description": "Classic French vegetable dish",
+      "ingredients": "Zucchini, Eggplant, Tomato, Bell Pepper, Onion, Garlic, Olive Oil, Thyme",
+      "instructions": [
+        "Slice vegetables and arrange in a baking dish.",
+        "Drizzle with olive oil and season with garlic and thyme.",
+        "Bake at 180°C for 35-40 minutes."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1705402916453-eb70c46ee1bc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmF0YXRvdWlsbGV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "30",
+      "title": "Shepherd's Pie",
+      "description": "Savory meat pie topped with mashed potatoes",
+      "ingredients": "Ground Lamb, Onion, Carrots, Peas, Beef Broth, Mashed Potatoes",
+      "instructions": [
+        "Cook lamb with onions, carrots, and peas.",
+        "Add beef broth and simmer until thickened.",
+        "Spread mixture in a dish and top with mashed potatoes.",
+        "Bake at 200°C for 25 minutes."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1601000938181-925c9bc969fa?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "31",
+      "title": "Chicken Tikka Masala",
+      "description": "Creamy and spiced Indian chicken curry",
+      "ingredients": "Chicken, Yogurt, Spices, Tomato Sauce, Cream, Garlic, Ginger",
+      "instructions": [
+        "Marinate chicken in yogurt and spices.",
+        "Cook chicken in a pan until browned.",
+        "Make a sauce with garlic, ginger, tomato, and cream.",
+        "Combine chicken and sauce, simmer for 15 minutes."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1670191894591-bc501a33de0d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMHRpa2thJTIwbWFzYWxhfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "32",
+      "title": "Minestrone Soup",
+      "description": "Hearty Italian vegetable soup",
+      "ingredients": "Vegetables (Zucchini, Carrots, Celery), Beans, Pasta, Tomato Broth, Garlic, Olive Oil",
+      "instructions": [
+        "Sauté garlic and vegetables in olive oil.",
+        "Add beans, pasta, and tomato broth.",
+        "Simmer until vegetables and pasta are tender."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1731460202531-bf8389d565f7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWluc3Ryb25lJTIwc291cHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "33",
+      "title": "Pad Thai",
+      "description": "Classic Thai stir-fried noodles",
+      "ingredients": "Rice Noodles, Shrimp, Eggs, Peanuts, Bean Sprouts, Pad Thai Sauce, Lime",
+      "instructions": [
+        "Cook rice noodles and set aside.",
+        "Stir-fry shrimp and scrambled eggs in a wok.",
+        "Add noodles, sauce, and bean sprouts; toss well.",
+        "Garnish with peanuts and lime."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1675150277436-9c7348972c11?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGFkJTIwdGhhaXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "34",
+      "title": "Beef Burgers",
+      "description": "Juicy homemade beef burgers",
+      "ingredients": "Ground Beef, Bread Buns, Lettuce, Tomato, Onion, Cheese, Ketchup, Mustard",
+      "instructions": [
+        "Form ground beef into patties and grill until cooked.",
+        "Assemble buns with lettuce, tomato, onion, cheese, and condiments.",
+        "Serve immediately."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1610440042657-612c34d95e9f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVlZiUyMGJ1cmdlcnN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "35",
+      "title": "Crepes",
+      "description": "Thin French pancakes",
+      "ingredients": "Flour, Eggs, Milk, Butter, Sugar, Salt",
+      "instructions": [
+        "Mix flour, eggs, milk, and melted butter into a batter.",
+        "Pour a thin layer into a heated non-stick pan.",
+        "Cook until lightly browned on both sides.",
+        "Fill with sweet or savory toppings."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y3JlcGVzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "36",
+      "title": "Chicken Noodle Soup",
+      "description": "Comforting chicken soup with noodles",
+      "ingredients": "Chicken, Noodles, Carrots, Celery, Onion, Chicken Broth, Spices",
+      "instructions": [
+        "Cook chicken and shred into pieces.",
+        "Simmer broth with vegetables until tender.",
+        "Add noodles and shredded chicken; cook until noodles are done."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1694708455263-e58c7aacbb19?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2hpY2tlbiUyMG5vb2RsZSUyMHNvdXB8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "37",
+      "title": "Avocado Toast",
+      "description": "Simple and healthy avocado toast",
+      "ingredients": "Bread, Avocado, Lemon, Salt, Pepper",
+      "instructions": [
+        "Toast bread slices.",
+        "Mash avocado with lemon juice, salt, and pepper.",
+        "Spread mixture on toast and serve."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1676106623583-e68dd66683e3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXZhY2FkbyUyMHRvYXN0fGVufDB8fDB8fHww"
+    },
+    {
+      "id": "38",
+      "title": "Coconut Curry",
+      "description": "Rich and creamy coconut-based curry",
+      "ingredients": "Coconut Milk, Vegetables, Curry Paste, Ginger, Garlic, Rice",
+      "instructions": [
+        "Sauté ginger and garlic in oil.",
+        "Add curry paste and cook for 2 minutes.",
+        "Pour in coconut milk and vegetables.",
+        "Simmer until vegetables are tender and serve with rice."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1518710339019-eee82fe8d97f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29jbnV0JTIwY3Vycnl8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "39",
+      "title": "Frittata",
+      "description": "Versatile egg-based dish with vegetables",
+      "ingredients": "Eggs, Vegetables, Cheese, Salt, Pepper",
+      "instructions": [
+        "Whisk eggs with salt and pepper.",
+        "Cook vegetables in a pan, then pour eggs over.",
+        "Cook on low heat until set and serve."
+      ],
+      "imageLink": "https://images.unsplash.com/photo-1677030002262-ea9384181dff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RnJpdHRhdGF8ZW58MHwwfDB8fHww"
+    },
+    {
+      "id": "40",
+      "title": "Omelette",
+      "description": "Quick and customizable egg dish",
+      "ingredients": "Eggs, Milk, Cheese, Vegetables, Salt, Pepper",
+      "instructions": [
+        "Whisk eggs with milk, salt, and pepper.",
+        "Cook in a pan until almost set.",
+        "Add fillings, fold, and serve."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1667807521536-bc35c8d8b64b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b21sZXR8ZW58MHwwfDB8fHww"
+    },
+    {
+      "id": "41",
+      "title": "Mac and Cheese",
+      "description": "Classic cheesy pasta",
+      "ingredients": "Pasta, Cheese, Milk, Butter, Flour",
+      "instructions": [
+        "Cook pasta and set aside.",
+        "Make a roux with butter and flour, then add milk.",
+        "Stir in cheese until melted, then mix with pasta."
+      ],
+      "imageLink": "https://plus.unsplash.com/premium_photo-1661677825991-caa232fea9da?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWFjJTIwYW5kJTIwY2hlZXNlfGVufDB8MHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "41",
+      "title": "Palak Paneer",
+      "description": "Cottage cheese in creamy spinach gravy",
+      "ingredients": "Spinach, Paneer, Onion, Garlic, Ginger, GreenChilies, Cream, Spices",
+      "instructions": [
+        "Blanch and puree spinach leaves.",
+        "Sauté onions, garlic, ginger, and chilies.",
+        "Add spinach puree and spices, cook for 5 minutes.",
+        "Stir in cream and paneer cubes, simmer for 5 minutes."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/851889508/photo/palak-paneer.webp?a=1&b=1&s=612x612&w=0&k=20&c=45y9SgRk2xZT77RLAGZEwpiKHuHE3yopuEteqI5hp6A="
+    },
+    {
+      "id": "42",
+      "title": "Aloo Gobi",
+      "description": "Potato and cauliflower stir-fry",
+      "ingredients": "Potatoes, Cauliflower, Onion, Tomato, Ginger, Garlic Spices",
+      "instructions": [
+        "Heat oil and add ginger-garlic paste.",
+        "Add diced potatoes, cauliflower, and spices.",
+        "Cook until tender, stirring occasionally.",
+        "Garnish with fresh cilantro and serve."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/450469817/photo/gobi-aloo-indian-curry-dish.webp?a=1&b=1&s=612x612&w=0&k=20&c=kaPy5Y_KGwzfcqQvh0O7ems2cmeynbnVtQX9vJcYfRc="
+    },
+    {
+      "id": "43",
+      "title": "Butter Chicken",
+      "description": "Rich and creamy chicken curry",
+      "ingredients": "Chicken, Yogurt, Tomato Puree, Butter, Cream, Garlic,Ginger, Spices",
+      "instructions": [
+        "Marinate chicken with yogurt and spices.",
+        "Cook chicken until tender.",
+        "Prepare a tomato-based gravy with butter and cream.",
+        "Add chicken to the gravy and simmer for 10 minutes."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/639389404/photo/authentic-indian-food.webp?a=1&b=1&s=612x612&w=0&k=20&c=BIz-9inz1CdT5LkBOStg1LImZxPSAg5PyhCgFa4VqVc="
+    },
+    {
+      "id": "44",
+      "title": "Dal Tadka",
+      "description": "Yellow lentils tempered with spices",
+      "ingredients": "Toor Dal, Onion, Tomato, Garlic, Ginger, Spices,Ghee",
+      "instructions": [
+        "Cook dal until soft and mash lightly.",
+        "Prepare a tempering with ghee, garlic, and spices.",
+        "Pour tempering over dal and mix well.",
+        "Garnish with cilantro and serve hot."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/1326815151/photo/indian-popular-food-dal-fry-or-traditional-dal-tadka-curry.webp?a=1&b=1&s=612x612&w=0&k=20&c=4sqh6vtzeeHbORT_xELhA05xIiImCLUGkS5-IP18vkg="
+    },
+    {
+      "id": "45",
+      "title": "Masala Dosa",
+      "description": "South Indian rice crepe with spiced potato filling",
+      "ingredients": "Dosa Batter, Potatoes, Onion, Mustard Seeds, CurryLeaves, Spices",
+      "instructions": [
+        "Prepare dosa batter and spread it on a hot griddle.",
+        "Cook spiced mashed potatoes for the filling.",
+        "Place the filling on the dosa and fold.",
+        "Serve with chutney and sambar."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/942682776/photo/masala-dosa-indian-breakfast-crepes-with-spicy-potato-filling.webp?a=1&b=1&s=612x612&w=0&k=20&c=LM5nGfClVFYZDlyqqvUCahI6CJ1vN4DuggMIsbcYlBo="
+    },
+    {
+      "id": "46",
+      "title": "Chole Bhature",
+      "description": "Spicy chickpea curry with fried bread",
+      "ingredients": "Chickpeas, Onion, Tomato, Garlic, Ginger, Spices,Flour, Yogurt",
+      "instructions": [
+        "Cook chickpeas and prepare a spicy curry.",
+        "Knead dough with flour and yogurt for bhature.",
+        "Roll and deep-fry the dough until puffed.",
+        "Serve chickpeas with hot bhature."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/1328524499/photo/katlambe-chole.webp?a=1&b=1&s=612x612&w=0&k=20&c=EPCKvlLn-1WeHHL_KL-60mkMjuD6p3BvI17YA8bfrC0="
+    },
+    {
+      "id": "47",
+      "title": "Paneer Tikka",
+      "description": "Grilled paneer marinated in spices",
+      "ingredients": "Paneer, Yogurt, Spices, Capsicum, Onion, LemonJuice",
+      "instructions": [
+        "Marinate paneer and vegetables in spiced yogurt.",
+        "Thread onto skewers and grill until golden.",
+        "Serve hot with mint chutney."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/1474136049/photo/close-up-image-of-paneer-kebabs-marinated-curd-cheese-pieces-on-metal-skewers-red-onion-and.webp?a=1&b=1&s=612x612&w=0&k=20&c=cvfV2qr33X-FNf0E4GCYnVovx3w7DdXmyIxv4EuMLII="
+    },
+    {
+      "id": "48",
+      "title": "Rajma",
+      "description": "Kidney beans cooked in a flavorful gravy",
+      "ingredients": "Kidney Beans, Onion, Tomato, Garlic, Ginger,Spices",
+      "instructions": [
+        "Cook kidney beans until soft.",
+        "Prepare a tomato-onion-based gravy with spices.",
+        "Add beans to the gravy and simmer for 10 minutes.",
+        "Serve with steamed rice."
+      ],
+      "imageLink": "https://media.istockphoto.com/id/1497379904/photo/rajma-masala-is-a-delicious-gravy-made-by-cooking-red-beans-with-onion-tomatoes-and-basic.webp?a=1&b=1&s=612x612&w=0&k=20&c=aml2YV0LdbUYJvLDNsRIaQKXakYcPyG69ma3PenNA8Q="
+    }
+  ]
+}
