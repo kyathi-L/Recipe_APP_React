@@ -1,0 +1,112 @@
+/* Navbar Container */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background: linear-gradient(90deg, #0d6efd, #0056b3); /* Smooth gradient */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+  padding: 10px 20px; /* Reduced height */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background 0.3s, box-shadow 0.3s;
+}
+
+.navbar:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3); /* More prominent shadow */
+}
+
+/* Navbar Brand */
+.navbar-brand {
+  font-size: 1.8rem; /* Slightly smaller */
+  font-weight: bold;
+  color: #ffffff; /* White color for contrast */
+  text-decoration: none;
+  transition: transform 0.3s, color 0.3s ease;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand:hover {
+  transform: scale(1.1); /* Slight zoom effect */
+  color: #dbe9ff; /* Softer white on hover */
+}
+
+/* Navbar Links */
+.navbar-nav {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-nav .nav-item {
+  margin: 0 10px; /* Reduced spacing for compact layout */
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #ffffff; /* White for text contrast */
+  text-decoration: none;
+  padding: 8px 15px;
+  transition: all 0.3s ease;
+  border-radius: 25px; /* Rounded button-like appearance */
+  background-color: transparent; /* Transparent by default */
+  border: 1px solid transparent; /* No border initially */
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: #ffffff; /* White background on hover */
+  color: #0d6efd; /* Blue text on hover */
+  border: 1px solid #0d6efd; /* Add border on hover */
+}
+
+.navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #ffdd57; /* Gold for active link */
+  background-color: #ffffff; /* Highlight active link */
+  border: 1px solid #ffdd57; /* Gold border for active */
+}
+
+/* Danger Link Styling */
+.navbar-nav .nav-link.text-danger {
+  color: #ff6b6b; /* Vivid red for contrast */
+}
+
+.navbar-nav .nav-link.text-danger:hover {
+  background-color: rgba(255, 107, 107, 0.2);
+  color: #ff5252;
+}
+
+/* Navbar Toggler */
+.navbar-toggler {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+.navbar-toggler-icon {
+  width: 24px;
+  height: 24px;
+  background-color: #ffffff; /* White icon for contrast */
+  mask: url('data:image/svg+xml;charset=UTF8,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"%3E%3Cpath fill-rule="evenodd" d="M1.5 12.5a.5.5 0 0 1 .5-.5h12a.5.5 0 0 1 0 1h-12a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h12a.5.5 0 0 1 0 1h-12a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h12a.5.5 0 0 1 0 1h-12a.5.5 0 0 1-.5-.5z"/%3E%3C/svg%3E') no-repeat center;
+  mask-size: contain;
+  -webkit-mask: url('data:image/svg+xml;charset=UTF8,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"%3E%3Cpath fill-rule="evenodd" d="M1.5 12.5a.5.5 0 0 1 .5-.5h12a.5.5 0 0 1 0 1h-12a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h12a.5.5 0 0 1 0 1h-12a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h12a.5.5 0 0 1 0 1h-12a.5.5 0 0 1-.5-.5z"/%3E%3C/svg%3E') no-repeat center;
+  -webkit-mask-size: contain;
+}
+
+/* Smooth Transitions */
+body, .navbar, .nav-link, .recipe-card {
+  transition: all 0.3s ease-in-out;
+}
+
+body {
+  padding-top: 70px; /* Adjust for smaller navbar height */
+  font-family: 'Arial', sans-serif; /* Modern font for clean look */
+  background-color: #f3f4f6; /* Light gray for a polished look */
+}
